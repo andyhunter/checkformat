@@ -1,0 +1,5 @@
+testfunctioncall(para)
+testfunctioncall()
+testfunctioncall(para )
+testfunctioncall( para1,para2 )
+testfunctioncall( para1 , para2 )
